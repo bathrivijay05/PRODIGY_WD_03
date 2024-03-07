@@ -91,11 +91,11 @@ h1 {
 	margin: 20px 20px 0 20px;
 	background-color: #FED201;
 	cursor: pointer;
+	width: 150px;
 }
 
 .vs-button button:hover {
 	background-color: #fed401e6;
-	;
 }
 
 .result-board {
